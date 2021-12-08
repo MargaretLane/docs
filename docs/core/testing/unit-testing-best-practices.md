@@ -26,7 +26,7 @@ Unit tests, on the other hand, take milliseconds, can be run at the press of a b
 
 Regression defects are defects that are introduced when a change is made to the application. It is common for testers to not only test their new feature but also features that existed beforehand in order to verify that previously implemented features still function as expected.
 
-With unit testing, it's possible to rerun your entire suite of tests after every build or even after you change a line of code. Giving you confidence that your new code does not break existing functionality.
+With unit testing, it's possible to rerun your entire suite of tests after every build or even after you change a line of code, giving you confidence that your new code does not break existing functionality.
 
 ### Executable documentation
 
